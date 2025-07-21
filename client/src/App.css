@@ -1,0 +1,22 @@
+.Homepage-Container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Homepage-Container .Input-Container input{
+    font-size: 20px;
+    display: block;
+    padding: 10px 20px;
+    margin: 10px;
+}
+
+.Homepage-Container .Input-Container button{
+    display: block ;
+    font-size: 24px;
+    width: 100px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
